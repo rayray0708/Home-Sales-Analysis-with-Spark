@@ -1,5 +1,5 @@
 # Home-Sales-Analysis-with-Spark
-
+![Home sales](https://gvwire.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/08/18101901/Home-Sales-Decline_1280X720.jpg)
 ## Introduction
 In this project, I'll use your knowledge of SparkSQL to determine key metrics about home sales data.
 
